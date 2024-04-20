@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# Big Files
+ImportAssets
+PN_interactiveSpruceForest
+Arts
+Particles_Wind_Control_System
+MSPresets
+MS_SciFiLand
+Watermills
